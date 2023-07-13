@@ -1,0 +1,73 @@
+.main{
+    color:#121212;
+    
+}
+
+
+h1{
+    text-align: center;
+}
+  
+
+.mid-wrapper{
+    display: block;
+    text-align: center;
+}
+
+
+input{
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 250px;
+    height: 35px; 
+    border: 3px solid #121212;
+    text-align: center;
+    font-weight: bold;
+}
+    
+  
+button{
+    color: white;
+    width: 260px;
+    background: #121212;
+    font-weight: bold;
+    font-style: italic;
+    padding-top: 10px;
+    padding-bottom: 10px;
+       
+}
+
+
+    
+    
+
+p{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    color: #121212;
+    text-align: center;
+    font-stretch: expanded;
+
+    
+    
+    
+    
+}
+
+
+img{
+    display: block;
+    width: 380px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid #121212;
+    
+    
+}
+
+.link{
+    text-align: center;
+}
